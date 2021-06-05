@@ -1,11 +1,11 @@
 ### Hello 👋 I'm Joanna 
 
-- 👀 I’m currently looking for a job as a Full-Stack Web Develooper.
-- 💪 I've studied Ruby on Rails, PostreSQL, JavaScript.
-- 🤓 I’m currently learning more JavaScript & React.
+- :computer: I’m currently working as a Junior Full-Stack Web Develooper.
+- 💪 I've studied Ruby on Rails, PostgreSQL, JavaScript.
+- 🤓 I’m currently learning React, Node.js & NestJS.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about changing careers and pursuing your deams.
-- 📫 Feel free to reach me: joanna.lisiak13@gmail.com
+- 📫 Feel free to reach out to me: joanna.lisiak13@gmail.com
 - ✨ You are welcome to my linkedin: https://www.linkedin.com/in/joannalisiak13/
 - ⚡ About me: 🥑 foodie, 🐾 animal person, 🎹 piano enthusiast and 🚐 adventure seeker.
 
