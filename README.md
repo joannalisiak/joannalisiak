@@ -4,7 +4,7 @@
 - 💪 I've studied Ruby on Rails, PostgreSQL, JavaScript.
 - 🤓 I’m currently learning React, Node.js & NestJS.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about changing careers and pursuing your deams.
+- 💬 Ask me about changing careers and pursuing your dreams.
 - 📫 Feel free to reach out to me: joanna.lisiak13@gmail.com
 - ✨ You are welcome to my linkedin: https://www.linkedin.com/in/joannalisiak13/
 - ⚡ About me: 🥑 foodie, 🐾 animal person, 🎹 piano enthusiast and 🚐 adventure seeker.
