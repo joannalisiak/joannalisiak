@@ -2,7 +2,7 @@
 
 - :computer: I’m currently working as a Junior Full-Stack Web Develooper.
 - 💪 I've studied Ruby on Rails, PostgreSQL, JavaScript.
-- 🤓 I’m currently learning React, Node.js & NestJS.
+- 🤓 I’m currently learning React, TypesScript & GraphQL.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about changing careers and pursuing your dreams.
 - 📫 Feel free to reach out to me: joanna.lisiak13@gmail.com
