@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Joanna 
 
-- :computer: I’m currently working as a Junior Full-Stack Web Develooper.
+- :computer: I’m currently working as a Junior Full-Stack Web Developer.
 - 💪 I've studied Ruby on Rails, PostgreSQL, JavaScript.
 - 🤓 I’m currently learning React, TypesScript & GraphQL.
 - 👯 I’m looking to collaborate on open source projects.
