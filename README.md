@@ -1,22 +1,10 @@
 ### Hello 👋 I'm Joanna 
 
-- :computer: I’m currently working as a Junior Software Developer.
-- 💪 I've studied Ruby on Rails, SQL and JavaScript.
-- 🎓 I’m currently learning React, TypeScript & GraphQL.
+- 💻 I’m currently working as a Junior Software Developer.
+- 🎓 I've graduted a bootcamp focused on Ruby on Rails.
+- 💪 I’m mainly developing in TypeScript, node.js, React & GraphQL.
+- 💡 I've got preference for back-end and interest in system design.
 - 🤝 I’m looking to collaborate on open source projects.
 - 💬 Ask me about changing careers and pursuing your dreams.
-- 📫 Feel free to reach out to me: joanna.lisiak13@gmail.com
 - 🙌 You are welcome to my linkedin: https://www.linkedin.com/in/joannalisiak13/
-- ♥️ About me: 🥑 foodie, 🐾 animal person, 🧘 yoga enthusiast and 🚐 adventure seeker.
-
-<!--
-**joannalisiak/joannalisiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👀 I’m currently looking for a job as a Full-Stack Web Develooper.
-- 💪 I've studied Ruby on Rails, PostreSQL, JavaScript.
-- 🤓 I’m currently learning more JavaScript & React.
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about changing careers and pursuing your dreams.
-- 📫 Feel free to reach me: joanna.lisiak13@gmail.com
-- ✨ You are welcome to my linkedin: https://www.linkedin.com/in/joannalisiak13/
-- ⚡ About me: 🥑 foodie, 🐾 animal person, 🎹 piano enthusiast and 🚐 adventure seeker.
--->
+- ♥️ About me: 🥑 plant foodie, 🐾 animal person, 🧘 yoga enthusiast and 🚐 adventure seeker.
