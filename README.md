@@ -6,5 +6,4 @@
 - 💡 I've got an interest in system design and data engineering.
 - 🤝 I’m looking to collaborate on open source projects.
 - 💬 Ask me about changing careers and pursuing your dreams.
-- 🙌 You're welcome to my linkedin: https://www.linkedin.com/in/joannalisiak13/
-- ♥️ About me: plant foodie, book lover, animal person, yoga enthusiast & adventure seeker.
+- ♥️ About me: plant foodie, book lover, yoga enthusiast & adventure seeker.
