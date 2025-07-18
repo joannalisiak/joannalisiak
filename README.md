@@ -1,9 +1,8 @@
-### Hello 👋 I'm Joanna 
+### Hi, I'm Joanna.
 
-- 👩‍💻 I’m currently working as a backend Software Engineer.
-- 👩‍🏫 I'm also a teacher at a web development bootcamp.
-- 🎓 I've changed careers from Architecture to Software.
-- 💪 I’m mainly developing in TypeScript, open to any stack.
-- 🤝 I’m looking to collaborate on open source projects.
-- 💬 Ask me about changing careers and pursuing your dreams.
-- 🌳 About me: plant foodie, book lover, yoga enthusiast & adventure seeker.
+- 👩‍💻 Working as a freelance software engineer.
+- 👩‍🏫 Teaching at software development bootcamp.
+- 🎓 One-time (and counting) career changer: from architecture to tech.
+- 🤝 Looking to collaborate on impactufl open source projects.
+- 💬 Interested in semi-philosophical talks on the future of our species.
+- 🌳 Plant foodie, book lover, yoga enthusiast & adventure seeker.
